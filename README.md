@@ -33,3 +33,5 @@
 ```
 ****
 > a block quote
+****
+~~delete~~
