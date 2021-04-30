@@ -3,7 +3,7 @@
 #### h4
 [link to 22z](./22z.md)
 ****
-[a link to an external web site](www.baidu.com)
+[a link to an external web site](https://www.apple.com/)
 ****
 ## local image
 ![image](./2.jpg)
