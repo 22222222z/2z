@@ -1,6 +1,7 @@
 # 2z
 ## h2
 #### h4
+[link to 22z](./22z.md)
 ****
 [a link to an external web site](www.baidu.com)
 ****
